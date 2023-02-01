@@ -1,1 +1,2 @@
 Creamos el primer commit y terminamos la tarea 1.
+Creamos el segundo commit y terminamos la tarea 2.
